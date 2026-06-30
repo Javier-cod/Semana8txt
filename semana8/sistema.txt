@@ -1,0 +1,14 @@
+INFORMACIÓN DEL COMANDO uname -a:
+Muestra la información del kernel, versión del sistema, arquitectura del hardware,
+y detalles técnicos completos del sistema operativo.
+
+INFORMACIÓN DEL COMANDO whoami:
+Muestra el nombre del usuario actual que está usando la terminal.
+
+¿POR QUÉ ES ÚTIL CONOCER INFORMACIÓN DEL SISTEMA?
+Cuando administras un servidor es importante porque:
+- Identifica qué versión del sistema operativo tienes instalada
+- Verifica la arquitectura del hardware (32 o 64 bits)
+- Muestra qué usuario está ejecutando los comandos
+- Ayuda a diagnosticar problemas de compatibilidad
+- Permite planificar upgrades y actualizaciones del sistema
