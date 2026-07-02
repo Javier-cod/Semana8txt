@@ -1,0 +1,14 @@
+Sistema operativo:
+Es la base que permite ejecutar programas y gestionar recursos como memoria, procesador y acceso a archivos. Sin el sistema operativo, Node.js no podría ejecutarse.
+
+Node.js:
+Es un entorno de ejecución que permite ejecutar código JavaScript en el servidor. Interpreta el código y lo convierte en instrucciones que el sistema operativo puede ejecutar.
+
+Aplicación server.js:
+Es el código que define cómo el servidor responde a las solicitudes. En nuestro caso, define dos rutas: "/" y "/estado" que devuelven diferentes respuestas.
+
+Puerto:
+Es una dirección numérica (en nuestro caso 3000) que actúa como un "punto de entrada" para acceder al servidor. Sin el puerto, no sabríamos en dónde conectarnos al servidor.
+
+Logs:
+Son registros de eventos que ocurren en el servidor, como solicitudes recibidas o errores. Ayudan a monitorear y diagnosticar problemas del sistema.
